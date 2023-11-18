@@ -1,0 +1,15 @@
+# front
+/frontend/node_modules/
+/frontend/auto-imports.d.ts
+/frontend/components.d.ts
+/frontend/pnpm-lock.yaml
+# dist
+/static/dist/
+/upload/
+addr.png
+# other
+.idea/
+build.bat
+build_win.bat
+config.yaml
+SoFast.exe
